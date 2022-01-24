@@ -32,3 +32,12 @@ Week 1 covers:
 Contains two scripts to demonstrate reading from a text file and writing to a text file. The ***data*** folder contains the data for the file reading example.
 
 
+### data
+
+Contains a text file with some sample data to practice reading with the fileIO code.
+
+
+### sort
+
+Contains an example solution for a simple sort. Note that there are multiple sort solutions, such as bubble sort, and then many more complex and efficient algorithms.
+
