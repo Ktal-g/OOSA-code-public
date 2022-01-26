@@ -20,7 +20,7 @@ class dataSorter(object):
     self.arr=np.random.random((numb))
 
   def sortArray(self):
-    '''Sort an array'''
+    '''Sort an array, using a simple sort method'''
     # preserve original array by copying
     copArr=np.copy(self.arr)
     # create workspace
