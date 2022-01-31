@@ -63,7 +63,14 @@ Contains an example of the main block in order to ease importing code in to othe
 ### docu\_strings
 
 Contains examples of document strings.
+Week 2 covers
 
+***Aspects***
+* Using the command line to make programmable programs
+* Objects and classes
+
+***Algorithm***
+* Binary search: Loop and recursion
 
 ### command\_line
 
@@ -92,4 +99,51 @@ Contains the answer for week 2's algorithm.
     searchObject.py: begins an object for sorting data
     makeData.py: makes data for testing algorithms
     randomWages.py: generates random wage data for testing algorithms
+
+
+## Week 3
+
+Week 3 covers
+
+***Aspects***
+* Geospatial packages: pyproj and gdal
+* A note on function input/output
+* Function fitting
+* A mention of pandas
+* Geospatial data formats; HDF5
+
+***Algorithm***
+* Douglas-Peucker line generalization
+
+
+### reproject
+
+Shows an example of using the dgal package to reproject raster or vector data.
+
+
+### function\_fit
+
+Shows an example of fitting a function to data.
+
+
+### pandas
+
+Shows an example of reading data into a pandas object.
+
+
+### hdf
+
+Shows an example of reading HDF data in to RAM, in this case using LVIS data.
+
+
+### line\_distance
+
+A function to find the orthogonal distance between a line and a point, to be used in the Douglas-Peucker line generalization algorithm.
+
+
+
+### data
+
+Contains data to be used in week 3's exercises.
+
 
