@@ -126,6 +126,10 @@ Shows an example of using the dgal package to reproject raster or vector data.
 Shows an example of fitting a function to data.
 
 
+### pointer\_reference
+
+Demonstrates the difference between variables that point to an array and copying a whole array.
+
 ### pandas
 
 Shows an example of reading data into a pandas object.
