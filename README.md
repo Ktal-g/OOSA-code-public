@@ -137,7 +137,10 @@ Shows an example of reading data into a pandas object.
 
 ### hdf
 
-Shows an example of reading HDF data in to RAM, in this case using LVIS data.
+Contains two files:
+
+    lvisClass.py: Shows an example of reading HDF data in to RAM, in this case using LVIS data. 
+    lvisCompleteExample.py: Shows an examp[le of reprojecting and plotting data.
 
 
 ### line\_distance
@@ -154,4 +157,30 @@ An example solution for Douglas-Peucker line-generalisation. This one uses recur
 
 Contains data to be used in week 3's exercises.
 
+
+
+## Week 4
+
+Week 4 covers:
+
+***Aspects***
+* Geospatial data formats; geotiff
+* Raster-vector calculations
+
+***Algorithm***
+* Batch processing: Raster-vector intersection
+* Raster operations: Focal functions
+
+
+### geotiff
+
+Contains a function to pass a raster array to and then uses GDAL to write to a geotiff that can be read into GIS or back into python.
+
+
+### lvis
+
+This contains two files:
+
+    lvisClass.py:   A class to hold data from LVIS HDF5 files
+    processLVIS.py: Processes LVIS data to estimate ground elevation
 
