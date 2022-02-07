@@ -145,6 +145,10 @@ Shows an example of reading HDF data in to RAM, in this case using LVIS data.
 A function to find the orthogonal distance between a line and a point, to be used in the Douglas-Peucker line generalization algorithm.
 
 
+### dp-line-general
+
+An example solution for Douglas-Peucker line-generalisation. This one uses recursion and imports a script from a different folder usingf PYTHONPATH.
+
 
 ### data
 
